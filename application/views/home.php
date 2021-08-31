@@ -109,7 +109,7 @@
                 <div class="style-grid-2-text_info">
                     <h3>Jasa Perbaikan</h3>
                     <p>Butuh jasa perbaikan mesin?</p>
-                    <div class="shop-button two">
+                    <div class="shop-button">
                         <a href="<?= base_url('produk/jasaperbaikan'); ?>">Lihat Disini</a>
                     </div>
 
