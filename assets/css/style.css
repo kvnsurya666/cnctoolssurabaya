@@ -1169,7 +1169,7 @@ li.dropdown.act a.w3_icons_act {
 .style-grid-2-text_info h3 {
 	font-size: 30px;
 	text-align: left;
-	color: #fff;
+	color: black;
 	margin-bottom: 20px;
 	font-weight: 700;
 	letter-spacing: 1px;
@@ -1177,7 +1177,7 @@ li.dropdown.act a.w3_icons_act {
 }
 
 .style-grid-2-text_info p {
-	color: #fff;
+	color: black;
 	font-size: 1em;
 	letter-spacing: 1px;
 	line-height: 1.9em;
@@ -1693,7 +1693,7 @@ p.copy-right-w3ls-agileits a:hover {
 }
 
 .banner_top.innerpage {
-	background: url(../img/banner3.jpg) no-repeat 0 -221px;
+	background: url(../img/slidercnc.jpg) no-repeat 0 -221px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1704,7 +1704,7 @@ p.copy-right-w3ls-agileits a:hover {
 
 @media (max-width: 900px) {
 	.banner_top.innerpage {
-		background: url(../img/banner3.jpg) no-repeat 0 -221px;
+		background: url(../img/slidercnc.jpg) no-repeat 0 -221px;
 		background-size: cover;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
@@ -2198,7 +2198,7 @@ button.btn1 {
 		padding: 2em 1em;
 	}
 	.banner_top.innerpage {
-		background: url(../img/banner3.jpg) no-repeat 0 -21px;
+		background: url(../img/slidercnc.jpg) no-repeat 0 -21px;
 		background-size: cover;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
