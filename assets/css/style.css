@@ -1694,7 +1694,7 @@ p.copy-right-w3ls-agileits a:hover {
 }
 
 .banner_top.innerpage {
-	background: url(../img/banner.jpeg) no-repeat 0 -221px;
+	background: url(../img/cnc1.jpg) no-repeat 0 -221px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1705,7 +1705,7 @@ p.copy-right-w3ls-agileits a:hover {
 
 @media (max-width: 900px) {
 	.banner_top.innerpage {
-		background: url(../img/banner.jpeg) no-repeat 0 -221px;
+		background: url(../img/cnc1.jpg) no-repeat 0 -221px;
 		background-size: cover;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
@@ -2278,7 +2278,7 @@ button.btn1 {
 	}
 
 	.banner_top.innerpage {
-		background: url(../img/banner.jpeg) no-repeat 0 -21px;
+		background: url(../img/cnc1.jpg) no-repeat 0 -21px;
 		background-size: cover;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
