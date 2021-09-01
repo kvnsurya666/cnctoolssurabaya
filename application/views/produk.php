@@ -4,7 +4,6 @@
 <div class="left-ads-display col-md-12">
 	<div class="wrapper_top_shop">
 		<div class="clearfix"></div>
-		<div class="product-sec1">
 		<?php foreach ($katalog as $row) :?>
 		<div class="col-md-3 product-men">
 			<div class="product-shoe-info">
@@ -33,7 +32,6 @@
 		<div class="clearfix"></div>
 		<div class="col-md-12 text-center">
 			<?= $pagination ?>
-		</div>
 		</div>
 		<div class="clearfix"></div>
 	</div>

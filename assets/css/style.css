@@ -2094,6 +2094,17 @@ button.btn1 {
 	width: 100%;
 	margin: 0.5em;
 	float: left;
+	border: 1px solid #e4e4e4;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+@media (max-width: 1024px) {
+	.product-shoe-info {
+		padding: 10px;
+		width: 100%;
+		margin: 0.6em;
+		float: left;
+	}
 }
 
 @media (max-width: 991px) {
@@ -2104,8 +2115,8 @@ button.btn1 {
 
 	.product-shoe-info {
 		padding: 10px;
-		width: 50%;
-		margin: 0.5em;
+		width: 48%;
+		margin: 0.6em;
 		float: left;
 	}
 
@@ -2385,7 +2396,7 @@ button.btn1 {
 
 	.product-shoe-info {
 		padding: 15px;
-		width: 45%;
+		width: 48%;
 		margin: 0.5em;
 		float: left;
 	}
@@ -2937,8 +2948,8 @@ button.btn1 {
 
 	.product-shoe-info {
 		padding: 15px;
-		width: 50%;
-		margin: 0.5em 0;
+		width: 46%;
+		margin: 0.4em;
 		float: left;
 	}
 

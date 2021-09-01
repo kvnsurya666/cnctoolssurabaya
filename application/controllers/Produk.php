@@ -94,7 +94,6 @@ class Produk extends MY_Controller
 							</h1>
 						</div>';
 		$data['detail'] = $this->MProduk->detailProduk($id_sepatu);
-		$data['warna'] = $this->MProduk->getWarna($id_sepatu);
 		$this->layout('produk', 'detail', $data);
 	}
 
