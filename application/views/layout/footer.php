@@ -103,7 +103,7 @@
                             </div>
                             <div class="address-right">
                                 <h6>E-mail</h6>
-                                <p><a href="mailto:mediasolusitek@gmail.com">mediasolusitek@gmail.com</a></p>
+                                <p><a href="mailto:yasmien.ilyas@gmail.com">yasmien.ilyas@gmail.com</a></p>
                             </div>
                             <div class="clearfix"> </div>
                         </div>
@@ -113,10 +113,7 @@
                             </div>
                             <div class="address-right">
                                 <h6>Alamat</h6>
-                                <p>Perum Taman Wisata Tropodo B-26
-                                    Waru
-                                    Sidoarjo
-                                </p>
+                                <p>Jl.Kenjeran 300 Surabaya</p>
                             </div>
                             <div class="clearfix"> </div>
                         </div>
