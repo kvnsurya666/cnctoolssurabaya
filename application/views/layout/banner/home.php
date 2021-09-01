@@ -7,7 +7,7 @@
               </li>
 
               <li id="callbacks1_s1" style="display: block; float: none; position: absolute; opacity: 0; z-index: 1; transition: opacity 1000ms ease-in-out 0s;" class="">
-                  <img src="assets/img/slider3.jpeg" alt="" title="#slider-direction-2">
+                  <img src="assets/img/mesinbubut.png" alt="" title="#slider-direction-2">
               </li>
 
               <li id="callbacks1_s2" style="display: block; float: none; position: absolute; opacity: 0; z-index: 1; transition: opacity 1000ms ease-in-out 0s;" class="">
