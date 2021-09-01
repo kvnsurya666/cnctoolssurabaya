@@ -96,13 +96,13 @@
                 </div>
             </div>
             <div class="style-image-2">
-                <img src="assets/img/logoaksesoris.jpg">
+                <img src="assets/img/logojasaperbaikan.jpg">
 
             </div>
         </div>
         <div class="col-md-6 grids_sec_2_left">
             <div class="style-image-2">
-                <img src="assets/img/logojasaperbaikan.jpg">
+                <img src="assets/img/logoaksesoris.jpg">
 
             </div>
             <div class="grid_sec_info last">
