@@ -27,7 +27,7 @@
 				    <div class="rating1">
 					</div>				
 					<div class="elementor-widget-button">
-                        <a id="linkwa" href="https://wa.me/6285655131099?text=Apakah+stok+dengan+nama+produk+%2A<?= $detail['nama_barang'] ?>%2A+warna+%2A%2A+tersedia+%3F" target="blank" class="elementor-button elementor-size-sm" role="button">	
+                        <a id="linkwa" href="https://wa.me/6285655131099?text=Apakah+stok+dengan+nama+produk+%2A<?= $detail['nama_barang'] ?>%2A+tersedia+%3F" target="blank" class="elementor-button elementor-size-sm" role="button">	
                             <i class="fa fa-whatsapp bold" aria-hidden="true"></i>
                             <span>Beli Via WhatsApp</span>
                         </a>
