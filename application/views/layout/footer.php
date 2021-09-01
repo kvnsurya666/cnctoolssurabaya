@@ -32,16 +32,16 @@
                 <div class="item">
                     <div class="row">
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/logofullmark.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/vertex1.png') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/logovertex.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/vertex2.png') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/logobositools.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/vertex3.png') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/logo san_ou.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/vertex4.png') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                     </div>
                 </div>
