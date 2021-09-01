@@ -16,32 +16,32 @@
                 <div class="item active">
                     <div class="row">
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/logocharlesbubut.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/bosi1.png') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/logomesinbubutweida.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/bosi2.png') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/logoj&w.jpg') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/bosi3.png') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/logodixon.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/bosi4.png') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                     </div>
                 </div>
                 <div class="item">
                     <div class="row">
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/logofullmark.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/vertex1.png') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/logovertex.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/vertex2.png') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/logobositools.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/vertex3.png') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/logo san_ou.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/vertex4.png') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                     </div>
                 </div>
@@ -103,7 +103,7 @@
                             </div>
                             <div class="address-right">
                                 <h6>E-mail</h6>
-                                <p><a href="mailto:mediasolusitek@gmail.com">mediasolusitek@gmail.com</a></p>
+                                <p><a href="mailto:yasmien.ilyas@gmail.com">yasmien.ilyas@gmail.com</a></p>
                             </div>
                             <div class="clearfix"> </div>
                         </div>
@@ -113,10 +113,7 @@
                             </div>
                             <div class="address-right">
                                 <h6>Alamat</h6>
-                                <p>Perum Taman Wisata Tropodo B-26
-                                    Waru
-                                    Sidoarjo
-                                </p>
+                                <p>Jl.Kenjeran 300 Surabaya</p>
                             </div>
                             <div class="clearfix"> </div>
                         </div>
