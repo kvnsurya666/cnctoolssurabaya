@@ -1,10 +1,6 @@
 <link rel="stylesheet" href="<?= base_url('assets/css/frontend.css') ?>">
 <link rel="stylesheet" href="<?= base_url('assets/css/frontend.min.css') ?>">
 <link rel="stylesheet" href="<?= base_url('assets/css/global.css') ?>">
-<link rel="stylesheet" href="<?= base_url('assets/css/bootstrap.min.css') ?>">
-<link rel="stylesheet" href="<?= base_url('assets/css/global.css') ?>">
-<link rel="stylesheet" href="<?= base_url('assets/css/easy-responsive-tabs.css') ?>">
-<link rel="stylesheet" href="<?= base_url('assets/css/lembar.css') ?>">
 <link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Quicksand%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CComfortaa%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=4.9.8" type="text/css" media="all">
 <div class="ads-grid_shop">
 		<div class="shop_inner_inf">
@@ -31,7 +27,7 @@
 				    <div class="rating1">
 					</div>				
 					<div class="elementor-widget-button">
-                        <a id="linkwa" href="https://wa.me/6285655131099?text=Apakah+stok+dengan+nama+produk+%2A<?= $detail['nama_barang'] ?>%2A+warna+%2A%2A+tersedia+%3F" target="blank" class="elementor-button elementor-size-sm" role="button">	
+                        <a id="linkwa" href="https://wa.me/6285655131099?text=Apakah+stok+dengan+nama+produk+%2A<?= $detail['nama_barang'] ?>%2A+tersedia+%3F" target="blank" class="elementor-button elementor-size-sm" role="button">	
                             <i class="fa fa-whatsapp bold" aria-hidden="true"></i>
                             <span>Beli Via WhatsApp</span>
                         </a>
