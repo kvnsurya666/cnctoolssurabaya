@@ -107,7 +107,7 @@ class Produk extends MY_Controller
 		$nama_warna = strtoupper($sql->nama_warna);
 		$nama_sepatu = $sql->nama_sepatu;
 
-		$href = 'https://wa.me/6285655131099?text=Apakah+stok+dengan+nama+produk+%2A' . $nama_sepatu . '%2A+warna+%2A' . $nama_warna . '%2A+tersedia+%3F';
+		$href = 'https://wa.me/6281254693810?text=Apakah+stok+dengan+nama+produk+%2A' . $nama_sepatu . '%2A+warna+%2A' . $nama_warna . '%2A+tersedia+%3F';
 		echo $href;
 	}
 }
