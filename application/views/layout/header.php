@@ -4,8 +4,7 @@
     <title>CNC Tools Surabaya</title>
     <link rel="shortcut icon" type="image/x-icon" href="<?= base_url('assets/img/faviconcbm.ico') ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
-    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Cache-Control" content="no-cache"/>
     <meta http-equiv="Expires" content="-1" />
 
     <!-- custom-theme -->
@@ -35,6 +34,10 @@
 
         function closeNav() {
             document.getElementById("mySidenav").style.width = "0";
+        }
+
+        eraseCache() {
+            window.location = window.
         }
     </script>
 </head>
