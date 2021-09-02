@@ -977,17 +977,31 @@ input.checked {
 	.men-thumb-item .img {
 		height: 22%;
 	}
+
 }
 
 .item-info-product {
 	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 10%;
+	margin-top: 15px;
+	overflow-wrap: break-word;
+}
+
+@media screen and (max-width:600px) {
+	.item-info-product {
+		height: 4%;
+		margin-top: 0px;
+	}
 }
 
 .item-info-product h4 a {
 	color: #080808;
 	font-size: 13px;
-	letter-spacing: 1px;
 	text-transform: uppercase;
+	letter-spacing: 1px;
 	font-weight: 700;
 }
 
@@ -1440,6 +1454,7 @@ input.button.add {
 @media (max-width: 980px) {
 	.item-info-product h4 a {
 		font-size: 8px;
+		height: 1px;
 	}
 	.shoe.single-item {
 		float: right;
