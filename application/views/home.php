@@ -1,61 +1,7 @@
-<style>
-    .stamp-ladies {
-        width: 100px;
-        position: absolute;
-        right: 0px;
-        margin: 30;
-    }
-
-    .stamp-men {
-        width: 100px;
-        position: absolute;
-        right: 0px;
-        margin-right: 30;
-        margin-top: -15;
-    }
-
-    .stamp-kids {
-        width: 100px;
-        position: absolute;
-        right: 0px;
-        margin-right: 30;
-        margin-top: -15;
-    }
-
-    @media (max-width:767.98px) {
-        .clear {
-            height: 753;
-        }
-
-        .stamp-ladies {
-            width: 80px;
-            position: absolute;
-            right: 0px;
-            margin-right: 30;
-            margin-top: 15;
-        }
-
-        .stamp-men {
-            width: 80px;
-            position: absolute;
-            right: 0px;
-            margin-right: 30;
-            margin-top: -65;
-        }
-
-        .stamp-kids {
-            width: 80px;
-            position: absolute;
-            right: 0px;
-            margin-right: 30;
-            margin-top: -55;
-        }
-    }
-</style>
 <div class="grids_bottom" style="margin-top:5px;">
     <div class="style-grids">
         <div class="col-md-6 style-grid style-grid-1">
-            <video width="640" height="640" controls autoplay>
+            <video width="640" height="630" controls autoplay>
                 <source src="assets/video/videomesinbubut.mp4" type="video/mp4">
                 <source src="movie.ogg" type="video/ogg">
             </video>
