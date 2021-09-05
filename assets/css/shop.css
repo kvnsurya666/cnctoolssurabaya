@@ -480,14 +480,14 @@ p.sbmincart-empty-text {
 	width: 100px;
 	height: auto;
 	position: sticky;
-	z-index: -1;
+	z-index: 0;
 }
 
 .product-new-top .logosmall {
 	width: 70px;
 	height: 70px;
 	position: sticky;
-	z-index: -1;
+	z-index: 0;
 }
 
 .product-new-top2 {
