@@ -1335,7 +1335,7 @@ button.top_shoe_akun {
 }
 
 .mid_slider_w3lsagile {
-	background: #fbc738;
+	background: linear-gradient(to bottom right, gray, rgb(247, 246, 246));
 }
 
 .mid_slider_text h5 {

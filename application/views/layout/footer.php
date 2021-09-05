@@ -16,32 +16,32 @@
                 <div class="item active">
                     <div class="row">
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/bosi1.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/metal1.png') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/bosi2.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/metal2.jpg') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/bosi3.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/metal3.jpg') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/bosi4.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/metal4.jpg') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                     </div>
                 </div>
                 <div class="item">
                     <div class="row">
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/vertex1.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/metal5.png') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/vertex2.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/metal6.jpg') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/vertex3.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/metal7.jpg') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/vertex4.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/metal8.jpg') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                     </div>
                 </div>
