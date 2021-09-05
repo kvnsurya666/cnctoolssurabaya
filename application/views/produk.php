@@ -18,6 +18,8 @@
 						<div class="product-new-top">
 							<?php if ($row['kode_merk'] == 1) :?>
 								<img class="logosmall" src="<?= base_url('assets/img/merk/'.$row['gambar_merk']);?>" alt="">
+							<?php elseif ($row['kode_merk'] == 9) :?>
+								<img class="logojasa" src="<?= base_url('assets/img/merk/'.$row['gambar_merk']);?>" alt="">
 							<?php else :?>
 								<img class="logo" src="<?= base_url('assets/img/merk/'.$row['gambar_merk']);?>" alt="">
 							<?php endif ?>

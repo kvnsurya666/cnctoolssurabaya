@@ -35,10 +35,6 @@
         function closeNav() {
             document.getElementById("mySidenav").style.width = "0";
         }
-
-        eraseCache() {
-            window.location = window.
-        }
     </script>
 </head>
 

@@ -947,6 +947,7 @@ li.dropdown.act a.w3_icons_act {
 	text-decoration: none;
 	height: 50px;
 	width: 50px;
+	border-radius: 50%;
 }
 
 .callbacks_nav:hover {
@@ -955,13 +956,21 @@ li.dropdown.act a.w3_icons_act {
 
 .callbacks_nav.next {
 	left: auto;
-	background: url(../img/right-panah.png);
+	background: url(../img/angle-right-solid.svg) no-repeat;
+	background-color: rgb(252, 202, 7);
+	background-position-x: center;
+	width: 90px;
+	height: 90px;
 	right: 15;
 }
 
 .callbacks_nav.prev {
 	left: auto;
-	background: url(../img/left-panah.png);
+	background: url(../img/angle-left-solid.svg) no-repeat;
+	background-color: rgb(252, 202, 7);
+	background-position-x: center;
+	width: 90px;
+	height: 90px;
 	left: 15;
 }
 
@@ -969,17 +978,23 @@ li.dropdown.act a.w3_icons_act {
 	.callbacks_nav.next {
 		left: auto;
 		margin-top: 25;
-		background: url(../img/right-panah.png) no-repeat;
-		background-size: 30px;
-		right: 5;
+		background: url(../img/angle-right-solid.svg) no-repeat;
+		background-color: rgb(252, 202, 7);
+		background-position-x: center;
+		width: 45px;
+		height: 45px;
+		right: 10;
 	}
 
 	.callbacks_nav.prev {
 		left: auto;
 		margin-top: 25;
-		background: url(../img/left-panah.png) no-repeat;
-		background-size: 30px;
-		left: 20;
+		background: url(../img/angle-left-solid.svg) no-repeat;
+		background-color: rgb(252, 202, 7);
+		background-position-x: center;
+		width: 45px;
+		height: 45px;
+		left: 10;
 	}
 }
 
@@ -1087,7 +1102,7 @@ li.dropdown.act a.w3_icons_act {
 }
 
 .callbacks_here a:after {
-	background: #fb383b;
+	background: rgb(252, 202, 7);
 }
 
 .style-grid {

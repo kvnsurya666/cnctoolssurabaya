@@ -472,6 +472,8 @@ p.sbmincart-empty-text {
 	top: 0;
 	right: 0;
 	position: absolute;
+	/* width: auto;
+	height: auto; */
 	/* text-align: center;
     line-height: 2.3; */
 }
@@ -479,7 +481,7 @@ p.sbmincart-empty-text {
 .product-new-top .logo {
 	width: 100px;
 	height: auto;
-	position: sticky;
+	position: static;
 	z-index: 0;
 }
 
@@ -490,24 +492,12 @@ p.sbmincart-empty-text {
 	z-index: 0;
 }
 
-.product-new-top2 {
-	background: #219ff3;
-	color: #fff;
-	right: 0;
+.product-new-top .logojasa {
 	position: absolute;
-	top: 0;
-	/*width: 80px;*/
-	font-size: 13px;
-	height: 29px;
-	text-align: center;
-	line-height: 2.3;
+	right: 195;
+	width: 70px;
+	height: auto;
 }
-
-/* span.money {
-    font-size: 1em;
-    font-weight: 700;
-	margin-left: -15px;
-} */
 
 span.money {
 	font-size: 1em;
@@ -535,6 +525,28 @@ span.money {
 	.price {
 		font-size: 0.9em;
 		font-weight: 700;
+	}
+
+	.product-new-top .logo {
+		width: 50px;
+		height: auto;
+		position: sticky;
+		z-index: 0;
+	}
+	
+	.product-new-top .logosmall {
+		width: 40px;
+		height: 40px;
+		position: sticky;
+		z-index: 0;
+	}
+	
+	.product-new-top .logojasa {
+		position: absolute;
+		right: 110;
+		width: 30px;
+		height: auto;
+		z-index: 0;
 	}
 }
 
