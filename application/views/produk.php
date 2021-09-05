@@ -16,7 +16,11 @@
 							</div>
 						</div>
 						<div class="product-new-top">
-							<img src="<?= base_url('assets/img/merk/'.$row['gambar_merk']); ?>" alt="">
+							<?php if ($row['kode_merk'] == 1) :?>
+								<img class="logosmall" src="<?= base_url('assets/img/merk/'.$row['gambar_merk']);?>" alt="">
+							<?php else :?>
+								<img class="logo" src="<?= base_url('assets/img/merk/'.$row['gambar_merk']);?>" alt="">
+							<?php endif ?>
 						</div>												
 					</div>
 					<div class="item-info-product">

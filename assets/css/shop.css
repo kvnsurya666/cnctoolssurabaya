@@ -469,13 +469,25 @@ p.sbmincart-empty-text {
 }*/
 
 .product-new-top {
+	top: 0;
 	right: 0;
 	position: absolute;
-	top: 0;
-	width: 100px;
-	height: 55px;
 	/* text-align: center;
     line-height: 2.3; */
+}
+
+.product-new-top .logo {
+	width: 100px;
+	height: auto;
+	position: sticky;
+	z-index: -1;
+}
+
+.product-new-top .logosmall {
+	width: 70px;
+	height: 70px;
+	position: sticky;
+	z-index: -1;
 }
 
 .product-new-top2 {
