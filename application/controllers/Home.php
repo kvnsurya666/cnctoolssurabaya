@@ -15,7 +15,6 @@ class Home extends MY_Controller
 								</a>
 							</h1>
 						</div>';
-
 		$this->layout('home', 'home', $data);
 	}
 }
