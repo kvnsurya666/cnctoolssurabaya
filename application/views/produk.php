@@ -1,3 +1,8 @@
+<?php
+	header("Cache-Control: no-cache, must-revalidate"); // HTTP 1.1
+	header("Pragma: no-cache"); // HTTP 1.0
+	header("Expires: Wed, 1 Jan 2020 00:00:00 GMT"); // Anytime in the past
+?>
 <div class="ads-grid_shop">
 
 	<!---728x90--->
@@ -18,6 +23,8 @@
 						<div class="product-new-top">
 							<?php if ($row['kode_merk'] == 1) :?>
 								<img class="logosmall" src="<?= base_url('assets/img/merk/'.$row['gambar_merk']);?>" alt="">
+							<?php elseif ($row['kode_merk'] == 9) :?>
+								<img class="logojasa" src="<?= base_url('assets/img/merk/'.$row['gambar_merk']);?>" alt="">
 							<?php else :?>
 								<img class="logo" src="<?= base_url('assets/img/merk/'.$row['gambar_merk']);?>" alt="">
 							<?php endif ?>
