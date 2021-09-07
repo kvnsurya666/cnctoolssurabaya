@@ -107,13 +107,7 @@
                             </div>
                             <div class="clearfix"> </div>
                         </div>
-                        <div class="address-grid">
-                            <div class="address-left">
-                                <i class="fa fa-map-marker" aria-hidden="true"></i>
-                            </div>
 
-                            <div class="clearfix"> </div>
-                        </div>
                     </div>
                 </div>
                 <div class="clearfix"></div>
