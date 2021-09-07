@@ -32,7 +32,7 @@
                 <div class="item">
                     <div class="row">
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/metal5.png') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/metal5n.png') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
                             <div class="thumbnail"><img src="<?= base_url('assets/img/metal6.jpg') ?>" alt="Image" style="max-width:100%;"></div>
@@ -41,7 +41,7 @@
                             <div class="thumbnail"><img src="<?= base_url('assets/img/metal7.jpg') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                         <div class="col-md-3 col-sm-3 col-xs-3 slidering">
-                            <div class="thumbnail"><img src="<?= base_url('assets/img/metal8.jpg') ?>" alt="Image" style="max-width:100%;"></div>
+                            <div class="thumbnail"><img src="<?= base_url('assets/img/metal8n.jpg') ?>" alt="Image" style="max-width:100%;"></div>
                         </div>
                     </div>
                 </div>
@@ -182,13 +182,8 @@
             pager: true,
             nav: true,
             speed: 1000,
-            namespace: "callbacks",
-            before: function() {
-                $('.events').append("<li>before event fired.</li>");
-            },
-            after: function() {
-                $('.events').append("<li>after event fired.</li>");
-            }
+            pauseControls: true,
+            namespace: "callbacks"
         });
     });
 </script>
