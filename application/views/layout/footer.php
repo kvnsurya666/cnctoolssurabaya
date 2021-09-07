@@ -111,10 +111,7 @@
                             <div class="address-left">
                                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                             </div>
-                            <div class="address-right">
-                                <h6>Alamat</h6>
-                                <p>Jl.Kenjeran 300 Surabaya</p>
-                            </div>
+
                             <div class="clearfix"> </div>
                         </div>
                     </div>
